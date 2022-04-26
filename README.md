@@ -26,7 +26,7 @@ This GitHub repository contains full configuration of openbox WM and additional 
 + **WM:** openbox-session with autostart and environment files
 + **Compositor:** picom
 + **Bar:** polybar [polybar-config](https://github.com/raven2cz/polybar-config)
-+ **Conky:** [MX-CodeBlue](https://github.com/raven2cz/dotfiles/tree/main/.config/conky/MX-CoreBlue)
++ **Conky:** [MX-CoreBlue](https://github.com/raven2cz/dotfiles/tree/main/.config/conky/MX-CoreBlue)
 + **Menu:** openbox static, generators and pipe-menus support, obfilebrowser
 + **Navigation:** rofi, [rofi-themes](https://github.com/raven2cz/rofi-themes)
 + **Wallpaper app:** nitrogen
@@ -35,7 +35,7 @@ This GitHub repository contains full configuration of openbox WM and additional 
 + **Wallpaper:** [public-wallpapers](https://github.com/raven2cz/public-wallpapers) - [openbox wallpaper](https://github.com/raven2cz/public-wallpapers/blob/main/00046-openbox-1.jpg)
 
 # Dependencies
-* Install polybar and use install this project to `.config` [polybar-config](https://github.com/raven2cz/polybar-config).
+* Install polybar and use this configuration project [polybar-config](https://github.com/raven2cz/polybar-config) to `.config`.
 * Nerd-Fonts Iosevka, Open Sans, Source Code Pro.
 
 Many optional dependencies according to your style. This is just example:
@@ -44,7 +44,7 @@ paru -S picom nitrogen tint2 polybar volctl clipmenu parcellite xfce4-notify
 ```
 
 # Installation
-Installation is described for arch linux. Accordingly to this guide you can apply it for any other distribution.
+Installation is described for Arch linux. Accordingly to this guide you can apply it for any other distribution.
 
 Arch linux wiki for [openbox here](https://wiki.archlinux.org/title/Openbox).
 ```bash
